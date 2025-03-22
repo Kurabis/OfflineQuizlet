@@ -1,0 +1,14 @@
+table {
+    margin-top: 1rem;
+}
+
+textarea {
+    width: 24rem;
+    resize: horizontal;
+}
+
+#delimiters {
+    width: 1rem;
+    border: 0px solid;
+    outline: none;
+}
